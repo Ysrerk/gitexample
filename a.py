@@ -1,0 +1,2 @@
+
+print("ilk python dosyasi")
